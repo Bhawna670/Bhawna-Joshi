@@ -1,0 +1,1 @@
+This is a simple ATM Interface project built using python that simulates basic banking operations. It provides users with options like checking balance, depositing money, withdrawing money, and viewing transaction history—all through a command-line interface.
